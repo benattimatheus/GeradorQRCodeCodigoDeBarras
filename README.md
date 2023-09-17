@@ -1,6 +1,6 @@
 # GeradorQRCodeCodigoDeBarras
-Gerador de Código de Barras e QR Code 
-Ferramentas e bibliotecas:
+Gerador de Código de Barras e QR Code \
+<br>Ferramentas e bibliotecas:
  
   <li>Python</li>
   <ul>
